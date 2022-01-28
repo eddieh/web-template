@@ -1,0 +1,10 @@
+Web Template
+============
+
+Basic HTML5 web template. Nothing fancy. No dependencies.
+
+
+Usage
+=====
+
+Open index.html in a browser or run `make server`
